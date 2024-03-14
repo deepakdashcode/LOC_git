@@ -1,0 +1,3 @@
+touch Deepak.txt
+touch commands.txt
+nano Deepak.txt
